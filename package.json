@@ -1,0 +1,19 @@
+{
+  "name": "fluktrade",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fluktrade ($FLUK) \u2014 Trade the whales on Solana. Every big Hyperliquid account is a chart. Long or short a whale with SOL.",
+  "scripts": {
+    "build": "echo 'Static build ready'"
+  },
+  "keywords": [
+    "fluktrade",
+    "solana",
+    "whale-trading",
+    "hyperliquid",
+    "pumpfun",
+    "fluk"
+  ],
+  "author": "Fluktrade Community",
+  "license": "MIT"
+}

@@ -1,0 +1,70 @@
+{
+  "framework": null,
+  "buildCommand": "exit 0",
+  "installCommand": "exit 0",
+  "outputDirectory": ".",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/api/feed",
+      "destination": "/data/feed.json"
+    },
+    {
+      "source": "/api/house",
+      "destination": "/data/house.json"
+    },
+    {
+      "source": "/api/state",
+      "destination": "/data/state.json"
+    },
+    {
+      "source": "/api/top",
+      "destination": "/data/top.json"
+    },
+    {
+      "source": "/api/whale-moves",
+      "destination": "/data/whale-moves.json"
+    },
+    {
+      "source": "/api/whales",
+      "destination": "/data/whales.json"
+    },
+    {
+      "source": "/api/contract",
+      "destination": "/data/contract.json"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        }
+      ]
+    },
+    {
+      "source": "/data/(.*)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
+  ]
+}

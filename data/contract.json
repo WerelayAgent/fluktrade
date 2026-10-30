@@ -1,0 +1,15 @@
+{
+  "name": "Fluktrade",
+  "symbol": "FLUK",
+  "network": "Solana",
+  "contract_address": "live now on pump.fun",
+  "platform": "pump.fun",
+  "status": "live",
+  "features": [
+    "Trade the Whales with SOL",
+    "Synthetic Whale Price Charts from Hyperliquid",
+    "Whale Indexes (Top 10 Whales, Smart Money)",
+    "Live Whale Moves Feed",
+    "Duel Mode & Whale Staking Pool"
+  ]
+}
