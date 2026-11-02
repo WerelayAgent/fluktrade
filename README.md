@@ -1,12 +1,12 @@
-# Fluktrade ($FLUK) — Trade the Whales
+# Fluktrade ($FLUKTRADE) — Trade the Whales
 
 <p align="center">
   <img src="/hero.jpg" width="600" alt="Fluktrade Whale Artwork" />
 </p>
 
-**Fluktrade** ($FLUK) is a synthetic whale trading and tracking platform on **Solana**. Every big Hyperliquid account is converted into a tradable chart: when the whale wins on Hyperliquid, the chart goes up. Users can long or short individual whales or indexed whale pods directly with **SOL**.
+**Fluktrade** ($FLUKTRADE) is a synthetic whale trading and tracking platform on **Solana**. Every big Hyperliquid account is converted into a tradable chart: when the whale wins on Hyperliquid, the chart goes up. Users can long or short individual whales or indexed whale pods directly with **SOL**.
 
-Rebranded from Fluke to **Fluktrade** ($FLUK).
+Rebranded from Fluke to **Fluktrade** ($FLUKTRADE).
 
 ## 🐋 Key Features
 
@@ -17,7 +17,7 @@ Rebranded from Fluke to **Fluktrade** ($FLUK).
 - **Duel & Community Pool**: Engage in head-to-head whale performance duels with community-driven liquidity.
 
 ## 📄 Contract Address
-- **Ticker**: `$FLUK`
+- **Ticker**: `$FLUKTRADE`
 - **Contract Address**: `live now on pump.fun`
 - **Network**: Solana
 
