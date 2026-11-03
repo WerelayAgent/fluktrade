@@ -2,16 +2,18 @@
   "name": "fluktrade",
   "version": "1.0.0",
   "private": true,
-  "description": "Fluktrade ($FLUKTRADE) \u2014 Trade the whales on Solana. Every big Hyperliquid account is a chart. Long or short a whale with SOL.",
+  "description": "Fluktrade ($FLUKTRADE) — Trade the whales on Robinhood Chain. Every big Hyperliquid account is a chart. Long or short a whale with ETH.",
   "scripts": {
     "build": "echo 'Static build ready'"
   },
   "keywords": [
     "fluktrade",
-    "solana",
+    "robinhood-chain",
+    "arbitrum-orbit",
+    "evm",
     "whale-trading",
     "hyperliquid",
-    "pumpfun",
+    "robinhood-l2",
     "fluk"
   ],
   "author": "Fluktrade Community",

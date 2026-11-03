@@ -1,12 +1,12 @@
 {
   "name": "Fluktrade",
   "symbol": "FLUKTRADE",
-  "network": "Solana",
-  "contract_address": "live now on pump.fun",
-  "platform": "pump.fun",
+  "network": "Robinhood Chain",
+  "contract_address": "live now on Robinhood Chain",
+  "platform": "Robinhood Chain DEX",
   "status": "live",
   "features": [
-    "Trade the Whales with SOL",
+    "Trade the Whales with ETH on Robinhood Chain",
     "Synthetic Whale Price Charts from Hyperliquid",
     "Whale Indexes (Top 10 Whales, Smart Money)",
     "Live Whale Moves Feed",
