@@ -2,7 +2,7 @@
   "name": "Fluktrade",
   "symbol": "FLUKTRADE",
   "network": "Robinhood Chain",
-  "contract_address": "live now on Robinhood Chain",
+  "contract_address": "0xc657D09Aaf8084E8aB1e9d7c0E8571DE80597453",
   "platform": "Robinhood Chain DEX",
   "status": "live",
   "features": [

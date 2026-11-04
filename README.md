@@ -31,7 +31,7 @@ Every big Hyperliquid account is converted into a live tradable chart: when the 
 
 ## 📄 Contract Address
 - **Ticker**: `$FLUKTRADE`
-- **Contract Address**: `live now on Robinhood Chain`
+- **Contract Address**: `0xc657D09Aaf8084E8aB1e9d7c0E8571DE80597453`
 - **Network**: Robinhood Chain (EVM L2)
 - **Gas / Settlement**: ETH
 
